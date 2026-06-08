@@ -1,3 +1,12 @@
+## 4.6.0
+
+* Add androidAudioOffloadPreferences.
+
+## 4.5.0
+
+* Add errorCode/errorMessage to PlaybackEventMessage.
+* Add useLazyPreparation to InitRequest for top-level playlist.
+
 ## 4.4.0
 
 * Add setWebSinkId for web (@dganzella).
